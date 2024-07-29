@@ -27,7 +27,7 @@ Sumz - A Summarizer is an innovative tool designed to generate concise summaries
 
 ### Prerequisites
 
-- Node.js
+- React.js
 - Rapid API Key
 - OpenAI API Key
 
