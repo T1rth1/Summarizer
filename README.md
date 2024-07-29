@@ -19,7 +19,6 @@ Sumz - A Summarizer is an innovative tool designed to generate concise summaries
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
 - **State Management**: Redux Toolkit
 - **API Integration**: Rapid API
 - **AI Model**: OpenAI GPT-4
